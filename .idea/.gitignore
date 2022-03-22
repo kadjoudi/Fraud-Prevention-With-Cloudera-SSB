@@ -1,0 +1,12 @@
+# Default ignored files
+*.iml
+.DS_Store
+.idea/*
+.idea/
+target/*
+target/
+*.log
+.factorypath
+.classpath
+.settings
+.project

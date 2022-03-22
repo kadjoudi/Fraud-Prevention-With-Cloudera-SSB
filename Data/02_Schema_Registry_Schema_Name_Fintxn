@@ -1,0 +1,36 @@
+{
+ "type": "record",
+ "name": "FinTransactions",
+ "fields": [
+  {
+   "name": "ts",
+   "type": "string",
+   "doc": "Type inferred from '\"2021-12-21T19:48:24.589204\"'"
+  },
+  {
+   "name": "account_id",
+   "type": "string",
+   "doc": "Type inferred from '\"a840\"'"
+  },
+  {
+   "name": "transaction_id",
+   "type": "string",
+   "doc": "Type inferred from '\"f58ca4ec-6296-11ec-b277-06b14095afa5\"'"
+  },
+  {
+   "name": "amount",
+   "type": "int",
+   "doc": "Type inferred from '1713'"
+  },
+  {
+   "name": "lat",
+   "type": "double",
+   "doc": "Type inferred from '43.67079899621925'"
+  },
+  {
+   "name": "lon",
+   "type": "double",
+   "doc": "Type inferred from '5.390849889724584'"
+  }
+ ]
+}
